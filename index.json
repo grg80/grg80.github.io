@@ -1,41 +1,47 @@
 {
-    "squadName" : "Super Hero Squad",
-    "homeTown" : "Metro City",
-    "formed" : 2016,
-    "secretBase" : "Super tower",
-    "active" : true,
-    "members" : [
-      {
-        "name" : "Molecule Man",
-        "age" : 29,
-        "secretIdentity" : "Dan Jukes",
-        "powers" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
-        ]
-      },
-      {
-        "name" : "Madame Uppercut",
-        "age" : 39,
-        "secretIdentity" : "Jane Wilson",
-        "powers" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
-        ]
-      },
-      {
-        "name" : "Eternal Flame",
-        "age" : 1000000,
-        "secretIdentity" : "Unknown",
-        "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
-        ]
-      }
-    ]
-  }
+  "firstName": "Gustavo",
+  "lastName": "Gryska",
+  "handlers": [
+    "gryskag@gmail.com",
+    "gyska_gustavo@hotmail.com"
+  ],
+  "introduction": "Administrador de infraestructura.",
+  "sections": [
+    {
+      "title": "Work",
+      "values": [
+        {
+          "title": "Senior Service Analista",
+          "entity": "Telecom Argentina",
+          "period": "2010 - hasta la actualidad",
+          "highlights": [
+            "Administracion de infraestructura Colud",
+            "Administracion servicios colaborativos",
+            "Gestion de equipos de trabajo"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "values": [
+        {
+          "title": "Analista de sistemas",
+          "entity": "UTN argentina",
+          "period": "2011 - 2014"
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "values": [
+        {
+          "title": "English"
+        },
+        {
+          "title": "Español"
+        }
+      ]
+    }
+  ]
+}
