@@ -1,10 +1,13 @@
 {
 	"nombre": "Jonh Doe",
-	"profesion": "Programador",
-	"edad": 25,
-	"lenguajes": ["PHP", "Java", "Phyton", "C"],
+	"profesion": "Web Developer",
+	"email": "jondoe@gmail.com",
+	"Mobile": "1234567890",
+	"lenguajes": ["php", "Java", "Phyton", "C"],
 	"frontend": ["html5", "css3", "JavaScript"],
 	"backend": "node.js",
+	"Lenguaje": ["English", "Hindi"],
+	"Hobbies": ["Playing Guitar", "judo"],
 	"disponibilidadParaViajar": true,
 	"rangoProfesional": {
 		"aniosDeExperiencia": "doce",
