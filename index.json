@@ -2,9 +2,9 @@
 	"nombre": "Jonh Doe",
 	"profesion": "Programador",
 	"edad": 25,
-	"lenguajes": ["PHP", "Java", "Phyton",C++],
-	"frontend": ["html5", "css3","JavaScript"],
-	"backend": "node.js"
+	"lenguajes": ["PHP", "Java", "Phyton", "C"],
+	"frontend": ["html5", "css3", "JavaScript"],
+	"backend": "node.js",
 	"disponibilidadParaViajar": true,
 	"rangoProfesional": {
 		"aniosDeExperiencia": "doce",
