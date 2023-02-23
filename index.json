@@ -3,6 +3,12 @@
 	"profesion": "Web Developer",
 	"email": "jondoe@gmail.com",
 	"Mobile": "1234567890",
+	"summary":"expandir mi conocimiento y habilidad de aprendizaje",
+	"Experience":{
+		"puesto":"desarrollador señor",
+		"fecha":"2009 a la fecha",
+		"proyectos":["diseño web","AppEndToEnd"]
+	},
 	"lenguajes": ["php", "Java", "Phyton", "C"],
 	"frontend": ["html5", "css3", "JavaScript"],
 	"backend": "node.js",
