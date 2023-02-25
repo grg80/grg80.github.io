@@ -1,0 +1,25 @@
+{
+	"nombre": "Jonh Doe",
+	"profesion": "Web Developer",
+	"email": "jondoe@gmail.com",
+	"Mobile": "1234567890",
+	"resumen": "expandir mi conocimiento y habilidad de aprendizaje",
+	"Experience": {
+		"puesto": "desarrollador señor",
+		"fecha": "2009 a la fecha",
+		"proyectos": ["diseño web", "AppEndToEnd"]
+	},
+	"educacion": "ingenieria en sistemas",
+	"ProyectoPrincipal": "Armado de pagina principal del gobierno de España",
+	"ProyectoSecundario": "Desarrollo y mantenimiento de intranet de banco Patagonia",
+	"lenguajes": ["php", "Java", "Phyton", "C"],
+	"frontend": ["html5", "css3", "JavaScript"],
+	"backend": "node.js",
+	"Lenguaje": ["English", "Hindi"],
+	"Hobbies": ["Playing Guitar", "judo"],
+	"disponibilidadParaViajar": true,
+	"rangoProfesional": {
+		"aniosDeExperiencia": "doce",
+		"nivel": "Senior"
+	}
+}
